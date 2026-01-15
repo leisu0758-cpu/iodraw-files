@@ -1,0 +1,13 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="dlO6-t3mLs3WE_EMX-pe">
+    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UuWbW0rOoTx_h_zUWcc--1" value="系统边界：图书管理系统&#xa;&#xa;&#xa;          ┌───────────────────────┐&#xa;          │   图书管理系统       │&#xa;          │                       │&#xa;   ┌─────────────┐         ┌─────────────┐&#xa;   │ 图书管理员  │         │   普通用户   │&#xa;   └──────┬──────┘         └──────┬──────┘&#xa;          │                         │&#xa;          │   ┌─────────────┐       │   ┌─────────────────┐&#xa;          ├─▶ │  添加新书   │       ├─▶ │添加到我的书架   │&#xa;          │   └─────────────┘       │   └─────────────────┘&#xa;          │   ┌─────────────┐       │   ┌─────────────────┐&#xa;          ├─▶ │编辑图书信息 │       ├─▶ │从书架移除图书   │&#xa;          │   └─────────────┘       │   └─────────────────┘&#xa;          │   ┌─────────────┐       │   ┌─────────────────┐&#xa;          ├─▶ │  查看图书   │       ├─▶ │查看我的书架列表 │&#xa;          │   └─────────────┘       │   └─────────────────┘&#xa;          │   ┌─────────────┐       │   ┌─────────────────┐&#xa;          ├─▶ │  删除图书   │       └─▶ │查看已删除图书   │&#xa;          │   └─────────────┘           └─────────────────┘&#xa;          │   ┌─────────────────────┐&#xa;          └─▶ │删除所有图书（可选） │&#xa;              └─────────────────────┘" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="410" height="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
