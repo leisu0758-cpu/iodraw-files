@@ -1007,7 +1007,7 @@
           <mxGeometry x="3830" y="680" width="471" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-253" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新是否成功？&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3830" y="780" width="240" height="100" as="geometry" />
+          <mxGeometry x="3830" y="780" width="471" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-254" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-253" target="wCwknmVpuA2mLfjbuqvq-253">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1061,7 +1061,7 @@
           <mxGeometry x="4367" y="640" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-267" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3970" y="840" width="130" height="30" as="geometry" />
+          <mxGeometry x="4156" y="835" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-268" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3800" y="840" width="130" height="30" as="geometry" />
