@@ -934,7 +934,7 @@
             <mxPoint x="3340" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-233" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;TokenProcessor.makeToken()&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;生成唯一&amp;nbsp; Token(MD5+Base64)&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-233" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;生成唯一&amp;nbsp; Token&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3230" y="680" width="470" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-234" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;将 Token 为 key，User 为 value ，&lt;span style=&quot;background-color: initial;&quot;&gt;存入 Redis，过期时间 1 小时&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
