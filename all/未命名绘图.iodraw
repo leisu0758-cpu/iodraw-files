@@ -274,10 +274,10 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-63" value="图书类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="1363" y="-710" width="365" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-64" value="图书类型id" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-64" value="类型ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="963" y="-732" width="262" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-65" value="图书类型名字" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-65" value="类型名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="1322" y="-1077" width="447" height="255" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-66" value="类型描述" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
