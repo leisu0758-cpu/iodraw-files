@@ -332,7 +332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-77" value="BookInfo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="3660" y="-780" width="308" height="60" as="geometry" />
+          <mxGeometry x="3660" y="-830" width="308" height="133" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-78" value="bookImg" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="3390" y="-590" width="220" height="100" as="geometry" />
@@ -350,9 +350,9 @@
           <mxGeometry x="4120" y="-1000" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-83" value="bookId" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="3470" y="-1050" width="170" height="130" as="geometry" />
+          <mxGeometry x="3258" y="-870" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-84" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=40;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-77" target="wCwknmVpuA2mLfjbuqvq-83">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-84" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=40;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-77" target="wCwknmVpuA2mLfjbuqvq-83">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3640" y="-900" as="sourcePoint" />
             <mxPoint x="3690" y="-950" as="targetPoint" />
