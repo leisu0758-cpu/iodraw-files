@@ -1067,7 +1067,7 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-270" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785" y="-2025" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-271" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-271" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1186" y="-2025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-272" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-270" target="wCwknmVpuA2mLfjbuqvq-274">
@@ -1076,7 +1076,7 @@
             <mxPoint x="968" y="-1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-274" value="借阅" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-274" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;借阅&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1003" y="-2035" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-275" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-274" target="wCwknmVpuA2mLfjbuqvq-271">
