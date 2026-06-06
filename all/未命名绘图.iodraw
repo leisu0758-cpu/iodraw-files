@@ -1085,7 +1085,7 @@
             <mxPoint x="1263" y="-1932" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-276" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-276" value="图书类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1328" y="-1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-277" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-278" target="wCwknmVpuA2mLfjbuqvq-271">
