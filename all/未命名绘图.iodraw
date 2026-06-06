@@ -271,7 +271,7 @@
             <mxPoint x="278" y="-990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-63" value="BookType" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-63" value="图书类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="1363" y="-710" width="365" height="163" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-64" value="bookTypeId" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
