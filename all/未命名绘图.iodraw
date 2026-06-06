@@ -337,10 +337,10 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-78" value="bookImg" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="3390" y="-612" width="220" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-79" value="isBorrowed" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-79" value="是否借出" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="3688" y="-557" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-80" value="bookDesc" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-80" value="图书描述" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="4033" y="-620" width="230" height="145" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-81" value="价格" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
