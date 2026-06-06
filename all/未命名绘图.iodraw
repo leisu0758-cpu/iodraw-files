@@ -241,7 +241,7 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-56" value="用户密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="28" y="-1220" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-57" value="isAdmin" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-57" value="是否为管理员" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="368" y="-1025" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-58" value="用户id" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
