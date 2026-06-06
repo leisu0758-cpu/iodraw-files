@@ -1065,10 +1065,10 @@
           <mxGeometry x="3800" y="840" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-270" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="628" y="-2025" width="120" height="60" as="geometry" />
+          <mxGeometry x="785" y="-2025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-271" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-2025" width="120" height="60" as="geometry" />
+          <mxGeometry x="1186" y="-2025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-272" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-270" target="wCwknmVpuA2mLfjbuqvq-274">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1095,7 +1095,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-278" value="分类" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1346" y="-1778" width="80" height="80" as="geometry" />
+          <mxGeometry x="1210" y="-1892" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-280" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-276" target="wCwknmVpuA2mLfjbuqvq-278">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
