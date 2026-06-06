@@ -338,16 +338,16 @@
           <mxGeometry x="3390" y="-590" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-79" value="isBorrowed" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="3670" y="-560" width="210" height="130" as="geometry" />
+          <mxGeometry x="3705" y="-557" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-80" value="bookDesc" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="4010" y="-590" width="230" height="110" as="geometry" />
+          <mxGeometry x="3995" y="-595" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-81" value="&amp;nbsp;bookPrice" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="4123" y="-822" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-82" value="bookAuthor" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="3968" y="-1147" width="220" height="150" as="geometry" />
+          <mxGeometry x="3968" y="-1112" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-83" value="bookId" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="3248" y="-830" width="170" height="130" as="geometry" />
@@ -389,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-90" value="bookName" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="3365" y="-1107" width="210" height="140" as="geometry" />
+          <mxGeometry x="3448" y="-1110" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-91" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=40;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-77" target="wCwknmVpuA2mLfjbuqvq-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
