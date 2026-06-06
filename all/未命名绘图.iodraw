@@ -1055,7 +1055,7 @@
           <mxGeometry x="4068" y="880" width="231" height="300" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-265" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;抛异常：&quot;添加记录失败&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3890" y="1080" width="60" height="100" as="geometry" />
+          <mxGeometry x="3953" y="1080" width="115" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-266" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="4367" y="640" width="130" height="30" as="geometry" />
