@@ -1024,7 +1024,7 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-256" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;创建 Borrow 对象并插入 borrow 表&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3830" y="880" width="239" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-257" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;插入是否成功？&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-257" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;插入是否成功？&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=100;" vertex="1" parent="1">
           <mxGeometry x="3830" y="980" width="241" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-258" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wCwknmVpuA2mLfjbuqvq-257" target="wCwknmVpuA2mLfjbuqvq-257">
@@ -1119,6 +1119,9 @@
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-287" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="3808" y="1041" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-288" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3968" y="1041" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
