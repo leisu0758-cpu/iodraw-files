@@ -334,7 +334,7 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-77" value="图书信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="3660" y="-830" width="308" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-78" value="bookImg" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-78" value="封面" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="3390" y="-612" width="220" height="135" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-79" value="是否借出" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
