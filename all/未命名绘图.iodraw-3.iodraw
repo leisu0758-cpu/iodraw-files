@@ -649,7 +649,7 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-162" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;页面信息浏览模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-3295" y="560" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-163" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;个人信息管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-163" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;个人信息管理模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-3035" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-164" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;图书归还模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
@@ -658,10 +658,10 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-165" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;图书借阅模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-3215" y="560" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-166" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;图书管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-166" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;图书管理模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-2890" y="560" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-167" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;图书类型管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="wCwknmVpuA2mLfjbuqvq-167" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;图书类型管理模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-2800" y="560" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-168" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;借阅管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
