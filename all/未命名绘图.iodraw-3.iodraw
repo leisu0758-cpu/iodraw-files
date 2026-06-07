@@ -239,13 +239,13 @@
           <mxGeometry x="-282" y="-1025" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-56" value="用户密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="28" y="-1220" width="270" height="150" as="geometry" />
+          <mxGeometry x="12" y="-1210" width="298" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-57" value="是否为管理员" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="368" y="-1025" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-58" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="58" y="-827" width="275" height="130" as="geometry" />
+          <mxGeometry x="20" y="-830" width="275" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=40;" parent="1" target="wCwknmVpuA2mLfjbuqvq-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
