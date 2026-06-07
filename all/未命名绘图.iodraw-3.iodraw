@@ -11,19 +11,19 @@
           <mxGeometry x="-1390" y="-1150" width="220" height="520" as="geometry" />
         </mxCell>
         <mxCell id="6F_o_VJ2oxFrDaPQwnLD-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;登录注册功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1335" y="-1140" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1335" y="-1140" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6F_o_VJ2oxFrDaPQwnLD-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;页面浏览功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1335" y="-1040" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6F_o_VJ2oxFrDaPQwnLD-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书借阅功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1335" y="-930" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1335" y="-930" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6F_o_VJ2oxFrDaPQwnLD-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;图书归还功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1335" y="-820" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1335" y="-820" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6F_o_VJ2oxFrDaPQwnLD-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;个人信息管理功能&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1335" y="-730" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1335" y="-730" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6F_o_VJ2oxFrDaPQwnLD-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6F_o_VJ2oxFrDaPQwnLD-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
