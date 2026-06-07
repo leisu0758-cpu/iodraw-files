@@ -272,13 +272,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-63" value="图书类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="1363" y="-710" width="365" height="163" as="geometry" />
+          <mxGeometry x="1385" y="-710" width="321" height="163" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-64" value="类型ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="958" y="-715" width="317" height="173" as="geometry" />
+          <mxGeometry x="1001.5" y="-715" width="317" height="173" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-65" value="类型名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="1342" y="-983" width="405" height="161" as="geometry" />
+          <mxGeometry x="1340" y="-955" width="405" height="161" as="geometry" />
         </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-66" value="类型描述" style="ellipse;whiteSpace=wrap;html=1;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="1810" y="-712" width="320" height="173" as="geometry" />
