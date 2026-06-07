@@ -1057,9 +1057,6 @@
         <mxCell id="wCwknmVpuA2mLfjbuqvq-265" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;抛异常：&quot;添加记录失败&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="4010" y="1080" width="174" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wCwknmVpuA2mLfjbuqvq-268" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="4160" y="840" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wCwknmVpuA2mLfjbuqvq-270" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="785" y="-2025" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1124,7 +1121,10 @@
           <mxGeometry x="3861" y="832" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IfoOf6eNybdVrgYSU9B7-3" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4646" y="540" width="130" height="30" as="geometry" />
+          <mxGeometry x="3866" y="630" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IfoOf6eNybdVrgYSU9B7-5" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4196" y="840" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
